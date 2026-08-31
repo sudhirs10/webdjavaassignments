@@ -1,3 +1,6 @@
-# JavaScript Assignments
-
-[Open my assignments](https://users.metropolia.fi/~sudhirsh/JavaScriptAssignmentsWeb/)
+[Advanced JavaScript](https://users.metropolia.fi/~sudhirsh/JavaScriptAssignmentsWeb/AdvanceJavaAssignments/)
+[Week 1 - JsRecap1](https://users.metropolia.fi/~sudhirsh/JavaScriptAssignmentsWeb/JsRecapAssignments/JsRecap1/)
+[Week 1 - JsRecap2](https://users.metropolia.fi/~sudhirsh/JavaScriptAssignmentsWeb/JsRecapAssignments/JsRecap2/)
+[Week 2 - JsRecap3](https://users.metropolia.fi/~sudhirsh/JavaScriptAssignmentsWeb/JsRecapAssignments/JsRecap3/)
+[Week 2 - JsRecap4](https://users.metropolia.fi/~sudhirsh/JavaScriptAssignmentsWeb/JsRecapAssignments/JsRecap4/)
+[Week 3 - JsRecap5](https://users.metropolia.fi/~sudhirsh/JavaScriptAssignmentsWeb/JsRecapAssignments/JsRecap5/)
